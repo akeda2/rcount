@@ -7,6 +7,7 @@ s=0
 s2=0
 m=0
 mi=0
+clear
 printf "$mi\n"
 while (( a > 0 )); do
 	printf "#"; sleep 0.001
